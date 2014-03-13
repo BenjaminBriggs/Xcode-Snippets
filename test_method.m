@@ -1,11 +1,12 @@
 // Test Method
-// Add a test case method to a test class.
+// 
 //
-// IDECodeSnippetCompletionPrefix: test
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetIdentifier: D0EFC526-3F2E-45F9-A000-765CB77E1191
+// IDECodeSnippetIdentifier: F0423F6C-3F81-46F9-865A-DE52979CFD38
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
-// IDECodeSnippetVersion: 1
-- (void)test<#Name#> {
-    <#statements#>
+// IDECodeSnippetUserSnippet: 1
+// IDECodeSnippetVersion: 0
+- (CGAffineTransform)transformFromScreenToValue
+{
+	return CGAffineTransformInvert([self transformFromValueToScreen]);
 }
