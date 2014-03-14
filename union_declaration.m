@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: uniondef
 // IDECodeSnippetCompletionScopes: [CodeBlock,TopLevel]
-// IDECodeSnippetIdentifier: E1953353-0E0A-4807-80B8-AFAD5F6B0A21
+// IDECodeSnippetIdentifier: 039A5FA1-85BC-402B-8A98-2A6DFE6C95B4
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 union <#union name#> {
   <#union fields#>
 };
