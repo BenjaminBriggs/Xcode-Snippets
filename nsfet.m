@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: B2ECB0CC-CCBA-4C98-88ED-D3CF14C7DD89
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 #pragma mark - NSFetchedResultsControllerDelegate
 
 - (void)controllerWillChangeContent:(NSFetchedResultsController *)controller
