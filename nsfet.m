@@ -1,4 +1,4 @@
-// NSFet
+// NSFetchedResultsControllerDelegate - CollectionVIew
 // 
 //
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
