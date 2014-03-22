@@ -3,9 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: initWithCoder
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetIdentifier: 754F3DA9-C71D-4412-8C27-D415902FC03F
+// IDECodeSnippetIdentifier: 5394FAA8-0762-465C-9635-3E7AE0652A47
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetUserSnippet: 1
+// IDECodeSnippetVersion: 2
 - (instancetype)initWithCoder:(NSCoder *)coder
 {
     self = [super initWithCoder:coder];

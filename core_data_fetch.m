@@ -3,9 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: fetch
 // IDECodeSnippetCompletionScopes: [CodeBlock]
-// IDECodeSnippetIdentifier: 06B72D2F-B181-4547-8208-A4FE9275AAD6
+// IDECodeSnippetIdentifier: 7FD4AB3C-7342-46C0-A299-6C1756BB4C69
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetUserSnippet: 1
+// IDECodeSnippetVersion: 2
 NSFetchRequest *fetchRequest = [[NSFetchRequest alloc] init];
 NSEntityDescription *entity = [NSEntityDescription entityForName:@"<#Entity name#>" inManagedObjectContext:<#context#>];
 [fetchRequest setEntity:entity];

@@ -3,9 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: compare
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetIdentifier: 89FE0BA9-EBF2-4D4E-A5E1-F09592F3664F
+// IDECodeSnippetIdentifier: 9644FA74-1863-429A-99E0-75B62ED940C6
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetUserSnippet: 1
+// IDECodeSnippetVersion: 2
 - (NSComparisonResult)compare:(id)other
 {
     return <#comparison expression#>;
