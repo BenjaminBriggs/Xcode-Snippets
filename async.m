@@ -1,4 +1,4 @@
-// dispatch_async Pattern for Background Processing
+// GCD: dispatch_async Pattern for Background Processing
 // Dispatch to do work in the background, and then to the main queue with the results
 //
 // IDECodeSnippetCompletionScopes: [All]
